@@ -54,15 +54,13 @@ Recent studies have shown that utilizing a large amount of explicit OOD training
 * Baseline Evaluations:  [\[CIFAR-10\]](./Evaluation/OOD_Baseline_Evaluation_CIFAR10.ipynb), [\[CIFAR-100\]](./Evaluation/OOD_Baseline_Evaluation_CIFAR100.ipynb)
 * DMR Evaluations: [\[CIFAR-10\]](./OOD_generation/DMR_Evaluation_CIFAR10.ipynb), [\[CIFAR-100\]](./OOD_generation/DMR_Evaluation_CIFAR100.ipynb)
 
-<!--
+
 ## Citation
 <pre>
-@misc{choi2023largescale,
-      title={Large-Scale Korean Text Dataset for Classifying Biased Speech in Real-World Online Services}, 
-      author={Dasol Choi and Jooyoung Song and Eunsun Lee and Jinwoo Seo and Heejune Park and Dongbin Na},
-      year={2023},
-      eprint={2310.04313},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{choi2024dmr,
+  title={DMR: Disentangling Marginal Representations for Out-of-Distribution Detection},
+  author={Choi, Dasol and Na, Dongbin},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4032--4041},
+  year={2024}
 }
--->
